@@ -1,1 +1,1 @@
-This is a config server for MServices app
+This is a config server for MServices application!
